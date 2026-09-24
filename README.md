@@ -89,6 +89,12 @@ English song · 2:38 · 38 shots. An original young protagonist moves from an em
 
 Chinese song · 5:04 · 46 shots. A persistent protagonist, green raincoat, canvas bag, and handwritten map connect a long-form journey from regret toward acceptance.
 
+### “Daoxiang” — animal protagonist in a natural-realistic style
+
+![Daoxiang golden retriever puppy natural-realistic storyboard preview](assets/song2storymv_results/daoxiang_animal_natural_preview.gif)
+
+Chinese song · 3:44 · 30-shot storyboard. A light-golden Golden Retriever puppy travels through sunlit rice fields, streams, muddy farm paths, and a firefly-lit night, with species, coat colour, and age kept consistent across the long-form narrative. The animated preview samples generated storyboard frames from the experiment.
+
 ## Experimental Results
 
 We evaluate Song2StoryMV on **30 full-length songs**, including 15 Chinese and 15 English songs. The collection covers narrative storytelling, repeated refrains, metaphorical expressions, relationship-centered themes, and emotionally driven passages, with both human and animal protagonists.
