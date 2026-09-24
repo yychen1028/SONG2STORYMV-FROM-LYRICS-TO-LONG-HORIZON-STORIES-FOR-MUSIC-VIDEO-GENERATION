@@ -65,11 +65,11 @@ It also supports substantial changes in palette, lighting, environment, and cine
 
 The following storyboards are sampled at evenly spaced intervals from completed full-song generations in the experiment suite. They show how the narrative, environment, and character state evolve over several minutes rather than within a single isolated clip.
 
-### “Daoxiang” — 1990s nostalgic rural story
+### “I Knew You Were Trouble” — relationship-to-recovery road narrative
 
-![Daoxiang 1990s nostalgic experiment](assets/song2storymv_results/daoxiang_90s_preview.gif)
+![I Knew You Were Trouble road narrative experiment](assets/song2storymv_results/i_knew_you_were_trouble_preview.gif)
 
-Chinese song · 3:44 · 21 shots. The sequence moves from departure and memory to rediscovery of home, using a consistent young protagonist and recurring rural locations.
+English song · 3:40 · 20 shots. The story follows a fictional protagonist from an intense roadside relationship through distance, conflict, and a final decision to leave the relationship behind.
 
 ### “Love Story” — naturalistic romantic narrative
 
@@ -77,11 +77,11 @@ Chinese song · 3:44 · 21 shots. The sequence moves from departure and memory t
 
 English song · 3:57 · 43 shots. The story follows two fictional protagonists through meeting, separation, waiting, and reunion across a shared countryside setting.
 
-### “Model” — live-action cyberpunk narrative
+### “Lonely” — fame and isolation narrative
 
-![Model cyberpunk experiment](assets/song2storymv_results/model_cyberpunk_preview.gif)
+![Lonely fame and isolation experiment](assets/song2storymv_results/lonely_preview.gif)
 
-Chinese song · 5:06 · 27 shots. Neon glass, rain, industrial alleys, and recurring paper-crane imagery support a story about escaping a city that controls identity and emotion.
+English song · 2:38 · 38 shots. An original young protagonist moves from an empty modern home through sets, cameras, and crowds before finding a moment of calm in an open natural landscape.
 
 ### “Zouzou” — rain-soaked nostalgic urban narrative
 
